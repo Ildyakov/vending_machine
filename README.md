@@ -30,10 +30,10 @@ after choosing valid number you should insert the money
 if there are not enough money you would be asked to add more money
 if it is match or higher then price VM will start giving you product
 
-#for now there is no hardware thats why result is randomized as:
-#5% chance that the initial settings of VM is wrong and there are less goods then it is typed in file products.tsv
-#5% chance that slot in VM is broken and can not give the goods
-#if it is ERROR from VM hardware it would be counted in Slots class and broken or empty slots will not be displayed again
+for now there is no hardware thats why result is randomized as:
+5% chance that the initial settings of VM is wrong and there are less goods then it is typed in file products.tsv
+5% chance that slot in VM is broken and can not give the goods
+if it is ERROR from VM hardware it would be counted in Slots class and broken or empty slots will not be displayed again
 
 after VM will success giving you product you will see something like:
 ---------------------------------------
