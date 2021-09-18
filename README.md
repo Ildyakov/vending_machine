@@ -37,8 +37,8 @@ if it is match or higher then price VM will start giving you product
 
 after VM will success giving you product you will see something like:
 ---------------------------------------
-take your change ---50---
-take your goods ---water---
+		take your change ---50---
+		take your goods ---water---
 ---------------------------------------
 
 and the Sansara wheel spin again...
