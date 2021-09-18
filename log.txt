@@ -1,0 +1,100 @@
+look at our goods
+1 juice 100
+2 water 50
+3 chocolate 150
+5 candies 300
+choose the product
+1
+
+
+you choose ---juice--- the price is ---100---
+insert the money, the money avaiable is ---0---
+100
+
+
+take your goods ---juice---
+
+
+look at our goods
+1 juice 100
+2 water 50
+3 chocolate 150
+5 candies 300
+choose the product
+1
+
+
+you choose ---juice--- the price is ---100---
+insert the money, the money avaiable is ---0---
+100
+
+
+take your goods ---juice---
+
+
+look at our goods
+2 water 50
+3 chocolate 150
+5 candies 300
+choose the product
+2
+
+
+you choose ---water--- the price is ---50---
+insert the money, the money avaiable is ---0---
+100
+
+
+take your change ---50---
+take your goods ---water---
+
+
+look at our goods
+2 water 50
+3 chocolate 150
+5 candies 300
+choose the product
+2
+
+
+you choose ---water--- the price is ---50---
+insert the money, the money avaiable is ---0---
+100
+
+
+Sorry your product is unavaiable
+take back your money ---100---
+
+
+look at our goods
+3 chocolate 150
+5 candies 300
+choose the product
+3
+
+
+you choose ---chocolate--- the price is ---150---
+insert the money, the money avaiable is ---0---
+200
+
+
+take your change ---50---
+take your goods ---chocolate---
+
+
+look at our goods
+5 candies 300
+choose the product
+5
+
+
+you choose ---candies--- the price is ---300---
+insert the money, the money avaiable is ---0---
+300
+
+
+take your goods ---candies---
+
+
+look at our goods
+Sorry VM is empty, come back tomorrow
